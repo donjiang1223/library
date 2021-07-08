@@ -15,3 +15,11 @@
 * create_gcp_vm_from_image.sh
 
 `createＧoogleCloudPlatfromVmFromImage [專案ID] [VM名稱] [VM ZONE] [VM CPU&RAM TYPE] [VM內網] [$VM內網名稱] [$VM外網名稱] [映像檔名稱] [映像檔專案ID] [VM硬碟大小]`
+
+* upload_to_gcs.sh
+
+`uploadToGoogleCloudStorage [上傳路徑] [上傳檔案] [GCS BUCKET] [SLACK異常通報對象]`
+
+* send_slack_message.sh
+
+`sendSlackMessage [訊息內容]`
