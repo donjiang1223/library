@@ -12,6 +12,6 @@
 
 `createＧoogleCloudPlatfromPublicIp [專案ID] [外網IP名稱] [IP區域]`
 
-* create_gcp_vm.sh
+* create_gcp_vm_from_image.sh
 
 `createＧoogleCloudPlatfromVmFromImage [專案ID] [VM名稱] [VM ZONE] [VM CPU&RAM TYPE] [VM內網] [$VM內網名稱] [$VM外網名稱] [映像檔名稱] [映像檔專案ID] [VM硬碟大小]`
