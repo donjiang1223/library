@@ -2,7 +2,7 @@
 
 * create_gcp_image.sh
 
-`createＧoogleCloudPlatfromImage [專案ID] [映像欓名稱] [VM名稱] [VM ZONE] [映像欓存放區域]`
+`createＧoogleCloudPlatfromImage [專案ID] [映像檔名稱] [VM名稱] [VM ZONE] [映像檔存放區域]`
 
 * create_gcp_private_ip.sh
 
